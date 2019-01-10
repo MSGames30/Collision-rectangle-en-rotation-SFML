@@ -1,0 +1,4 @@
+﻿  SfmlTemplate.cpp
+c:\users\pezed\desktop\souris dans rectangle avec rotation\sfmltemplate\sfmltemplate.cpp(26): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\pezed\desktop\souris dans rectangle avec rotation\sfmltemplate\sfmltemplate.cpp(32): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+  SfmlTemplate.vcxproj -> C:\Users\Pezed\Desktop\souris dans rectangle avec rotation\x64\Debug\SfmlTemplate.exe
